@@ -3,7 +3,7 @@
 ## Table of Contents
 
 *   [Grade](#grade)
-*   [Assesments](#assesments)
+*   [Assessments](#assessments)
 *   [Publishing](#publishing)
 *   [Plagiarism](#plagiarism)
 
@@ -12,8 +12,8 @@
 | Task                                |   Weight |
 | ----------------------------------  | -------: |
 | [Participation][grading]            |      10% |
-| [Assesment 1][a1] (oral test)       |      60% |
-| [Assesment 2][a2] (oral test)       |      30% |
+| [Assessment 1][a1] (oral test)       |      60% |
+| [Assessment 2][a2] (oral test)       |      30% |
 | **Total**                           | **100%** |
 
 
@@ -43,23 +43,23 @@ The below table breaks down the general time needed to complete activities.
 
 Participation makes up 10% of your final grade. It’s calculated based on how students engage in class and if you completed the JS Bootcamp assignments. Each assignment is graded **ok** or **not ok**.
 
-## Assesments
+## Assessments
 
-### Assesment 1 - Individual
+### Assessment 1 - Individual
 This is an oral test where you individually present the feature you created. You will show you can create a quality project in which you apply the subject matter of this course and that you understand it. You will answer questions in such a way as to demonstrate sufficient knowledge of our goals.
 
 * [Learning goals][goals]
 * [Subgoals][goals]
 
-> [Rubic of Assesment 1][a1]
+> [Rubric of Assessment 1][a1]
 
-### Assesment 2 - Team
+### Assessment 2 - Team
 This is an oral test where you present your prototype with your team. You will show how you contributed to the project and explain if you reached your own goals you've set at the beginning of the project.
 
 * [Learning goals][goals]
 * [Subgoals][goals]
 
-> [Rubic of Assesment 2][a2]
+> [Rubric of Assessment 2][a2]
 
 
 ## Publishing
@@ -100,8 +100,8 @@ You are not allowed to simply use portions of someone else's work in your projec
 
 The manner in which you cite your sources depends. The most widely used style at the AUAS is [APA](https://www.amsterdamuas.com/library/services/acknowledging-sources/apa-style/apa-style.html) of the American Psychological Association. Make sure you cite your sources in the repository or documentation of your project on GitHub.
 
-[a1]: assesments/a1.md
-[a2]: assesments/a2.md
+[a1]: assessments/a1.md
+[a2]: assessments/a2.md
 [banner]: https://cmda-bt.github.io/be-course-18-19/assets/banner-grading.svg
 [grading]: grading.md
 [goals]: https://github.com/cmda-bt/be-course-18-19#goals
